@@ -83,6 +83,10 @@ img.inline-screenshot {
   width: 80%;
 }
 
+img.phone-screenshot {
+  /*height: 100%;*/
+}
+
 p img {
   vertical-align: middle;
 }
