@@ -73,6 +73,16 @@ p {
 
 }
 
+.google-red-cross {
+  font-size: 500px;
+  color: #d22;
+  margin: -400px 0 0 0;
+}
+
+img.inline-screenshot {
+  width: 80%;
+}
+
 p img {
   vertical-align: middle;
 }
